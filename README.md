@@ -47,8 +47,7 @@ permite realizar conversiones de manera fácil y rápida.
 1. **Clona el repositorio**:
    ```bash
    git clone https://github.com/jissbossg/alura-challenge-conversor-moneda.git
-   cd conversor-divisas
-
+   ```
 ## Uso
 
 ### El sistema inicia con un saludo solicitando que se ingrese un nombre de usuario
