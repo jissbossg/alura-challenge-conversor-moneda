@@ -1,0 +1,210 @@
+[
+  {
+    "userName": "pablo",
+    "baseCodeCurrency": "USD",
+    "targetCodeCurrency": "ARS",
+    "valueToConvert": 500.0,
+    "convertedValue": 488125.0,
+    "currentDateTime": "09/10/24 - 21:03:24"
+  },
+  {
+    "userName": "pablo",
+    "baseCodeCurrency": "ARS",
+    "targetCodeCurrency": "USD",
+    "valueToConvert": 600.0,
+    "convertedValue": 0.6144,
+    "currentDateTime": "09/10/24 - 21:03:32"
+  },
+  {
+    "userName": "pablo",
+    "baseCodeCurrency": "USD",
+    "targetCodeCurrency": "BRL",
+    "valueToConvert": 600.0,
+    "convertedValue": 3325.68,
+    "currentDateTime": "09/10/24 - 21:03:40"
+  },
+  {
+    "userName": "pablo",
+    "baseCodeCurrency": "BRL",
+    "targetCodeCurrency": "USD",
+    "valueToConvert": 600.0,
+    "convertedValue": 108.24000000000001,
+    "currentDateTime": "09/10/24 - 21:03:48"
+  },
+  {
+    "userName": "pablo",
+    "baseCodeCurrency": "USD",
+    "targetCodeCurrency": "COP",
+    "valueToConvert": 800.0,
+    "convertedValue": 3385144.3200000003,
+    "currentDateTime": "09/10/24 - 21:04:03"
+  },
+  {
+    "userName": "pablo",
+    "baseCodeCurrency": "COP",
+    "targetCodeCurrency": "USD",
+    "valueToConvert": 566.0,
+    "convertedValue": 0.13376278,
+    "currentDateTime": "09/10/24 - 21:04:10"
+  },
+  {
+    "userName": "pablo",
+    "baseCodeCurrency": "COP",
+    "targetCodeCurrency": "USD",
+    "valueToConvert": 56.0,
+    "convertedValue": 0.01323448,
+    "currentDateTime": "09/10/24 - 21:04:23"
+  },
+  {
+    "userName": "pablo",
+    "baseCodeCurrency": "COP",
+    "targetCodeCurrency": "USD",
+    "valueToConvert": 8990.0,
+    "convertedValue": 2.1246067,
+    "currentDateTime": "09/10/24 - 21:04:51"
+  },
+  {
+    "userName": "lola",
+    "baseCodeCurrency": "USD",
+    "targetCodeCurrency": "ARS",
+    "valueToConvert": 10.0,
+    "convertedValue": 9762.5,
+    "currentDateTime": "09/10/24 - 21:12:57"
+  },
+  {
+    "userName": "lola",
+    "baseCodeCurrency": "ARS",
+    "targetCodeCurrency": "USD",
+    "valueToConvert": 10.0,
+    "convertedValue": 0.010239999999999999,
+    "currentDateTime": "09/10/24 - 21:13:05"
+  },
+  {
+    "userName": "lola",
+    "baseCodeCurrency": "USD",
+    "targetCodeCurrency": "BRL",
+    "valueToConvert": 20.0,
+    "convertedValue": 110.856,
+    "currentDateTime": "09/10/24 - 21:13:14"
+  },
+  {
+    "userName": "lola",
+    "baseCodeCurrency": "BRL",
+    "targetCodeCurrency": "USD",
+    "valueToConvert": 20.0,
+    "convertedValue": 3.608,
+    "currentDateTime": "09/10/24 - 21:13:48"
+  },
+  {
+    "userName": "lola",
+    "baseCodeCurrency": "USD",
+    "targetCodeCurrency": "COP",
+    "valueToConvert": 30.0,
+    "convertedValue": 126942.91200000001,
+    "currentDateTime": "09/10/24 - 21:14:00"
+  },
+  {
+    "userName": "lola",
+    "baseCodeCurrency": "COP",
+    "targetCodeCurrency": "USD",
+    "valueToConvert": 30.0,
+    "convertedValue": 0.0070899000000000005,
+    "currentDateTime": "09/10/24 - 21:14:16"
+  },
+  {
+    "userName": "lola",
+    "baseCodeCurrency": "USD",
+    "targetCodeCurrency": "MXN",
+    "valueToConvert": 10.0,
+    "convertedValue": 194.537,
+    "currentDateTime": "09/10/24 - 21:14:35"
+  },
+  {
+    "userName": "lola",
+    "baseCodeCurrency": "USD",
+    "targetCodeCurrency": "ARS",
+    "valueToConvert": 56.0,
+    "convertedValue": 54670.0,
+    "currentDateTime": "09/10/24 - 21:15:21"
+  },
+  {
+    "userName": "luis",
+    "baseCodeCurrency": "USD",
+    "targetCodeCurrency": "MXN",
+    "valueToConvert": 56.0,
+    "convertedValue": 1089.4072,
+    "currentDateTime": "09/10/24 - 21:18:59"
+  },
+  {
+    "userName": "lucas",
+    "baseCodeCurrency": "USD",
+    "targetCodeCurrency": "MXN",
+    "valueToConvert": 456.0,
+    "convertedValue": 8870.887200000001,
+    "currentDateTime": "09/10/24 - 21:19:59"
+  },
+  {
+    "userName": "julia",
+    "baseCodeCurrency": "USD",
+    "targetCodeCurrency": "ARS",
+    "valueToConvert": 45.0,
+    "convertedValue": 43931.25,
+    "currentDateTime": "09/10/24 - 21:26:22"
+  },
+  {
+    "userName": "maria",
+    "baseCodeCurrency": "USD",
+    "targetCodeCurrency": "ARS",
+    "valueToConvert": 56.0,
+    "convertedValue": 54670.0,
+    "currentDateTime": "09/10/24 - 21:29:12"
+  },
+  {
+    "userName": "nicol",
+    "baseCodeCurrency": "USD",
+    "targetCodeCurrency": "ARS",
+    "valueToConvert": 45.0,
+    "convertedValue": 43931.25,
+    "currentDateTime": "09/10/24 - 21:30:27"
+  },
+  {
+    "userName": "yuli",
+    "baseCodeCurrency": "USD",
+    "targetCodeCurrency": "ARS",
+    "valueToConvert": 45.0,
+    "convertedValue": 43931.25,
+    "currentDateTime": "09/10/24 - 21:32:52"
+  },
+  {
+    "userName": "luri",
+    "baseCodeCurrency": "USD",
+    "targetCodeCurrency": "ARS",
+    "valueToConvert": 100.0,
+    "convertedValue": 97625.0,
+    "currentDateTime": "09/10/24 - 21:50:00"
+  },
+  {
+    "userName": "luri",
+    "baseCodeCurrency": "USD",
+    "targetCodeCurrency": "ARS",
+    "valueToConvert": 500.0,
+    "convertedValue": 488125.0,
+    "currentDateTime": "09/10/24 - 21:50:15"
+  },
+  {
+    "userName": "luri",
+    "baseCodeCurrency": "ARS",
+    "targetCodeCurrency": "USD",
+    "valueToConvert": 600.0,
+    "convertedValue": 0.6144,
+    "currentDateTime": "09/10/24 - 21:50:35"
+  },
+  {
+    "userName": "luri",
+    "baseCodeCurrency": "USD",
+    "targetCodeCurrency": "BRL",
+    "valueToConvert": 900.0,
+    "convertedValue": 4988.5199999999995,
+    "currentDateTime": "09/10/24 - 21:51:06"
+  }
+]
