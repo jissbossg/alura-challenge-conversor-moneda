@@ -16,8 +16,6 @@ permite realizar conversiones de manera fácil y rápida.
     - [Clase `ExchangeRateAPI`](#clase-exchangerateapi)
     - [Clase `Program`](#clase-program)
     - [Clase `Menu`](#clase-menu)
-- [Contribuciones](#contribuciones)
-- [Licencia](#licencia)
 - [Contacto](#contacto)
 
 ## Características
@@ -230,3 +228,9 @@ Que desea hacer
 Gracias por utilizar el conversor de moneda...
 Saliendo...
 ```
+
+## Contacto
+[LinkedIn](https://www.linkedin.com/in/jissbossg)
+[Links](https://linktr.ee/jissbossg)
+
+
