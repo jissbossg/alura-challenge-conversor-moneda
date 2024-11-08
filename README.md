@@ -13,7 +13,6 @@ permite realizar conversiones de manera fácil y rápida.
 - [Requisitos](#requisitos)
 - [Instalación](#instalación)
 - [Uso](#uso)
-- [Ejemplo de Uso](#ejemplo-de-uso)
 - [Contacto](#contacto)
 
 
