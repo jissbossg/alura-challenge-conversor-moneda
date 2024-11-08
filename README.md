@@ -1,10 +1,10 @@
 # Conversor de Moneda en Java
 
 <image src="https://aprende.goodneighbors.cl/wp-content/uploads/2022/02/ONE_logo_rgb-768x408.png" alt="Logo Alura Latam + Oracle"/>
-    
+
 # 
-    
-###  Este proyecto es un **Conversor de Divisas** desarrollado en Java que permite a los usuarios convertir entre diferentes monedas utilizandola API de **ExchangeRate-API**. El programa cuenta con un menú interactivo que permite realizar conversiones de manera fácil y rápida.
+
+###  Este proyecto es un **Conversor de Divisas** desarrollado en Java que permite a los usuarios convertir entre diferentes monedas utilizandola API de **[ExchangeRate-API](https://www.exchangerate-api.com/)**. El programa cuenta con un menú interactivo que permite realizar conversiones de manera fácil y rápida.
 
 # 
 
@@ -52,7 +52,7 @@
    git clone https://github.com/jissbossg/alura-challenge-conversor-moneda.git
    ```
 # 
-   
+
 ## Uso
 
 ### El sistema inicia con un saludo solicitando que se ingrese un nombre de usuario
@@ -79,7 +79,7 @@ Seleccione una tasa de cambio:
 ```bash
 1
 ```
-### Solicita ingresar el valor a convertir 
+### Solicita ingresar el valor a convertir
 ```bash
 Ingresa la cantidad de USD a convertir en ARS: 100
 ```
@@ -99,7 +99,7 @@ Que desea hacer
 ```bash
 1
 ```
-### Solicita ingresar el valor a convertir 
+### Solicita ingresar el valor a convertir
 ```bash
 Ingresa la cantidad de USD a convertir en ARS: 500
 ```
@@ -131,7 +131,7 @@ Seleccione una tasa de cambio:
 ```bash
 2
 ```
-### Solicita ingresar el valor a convertir 
+### Solicita ingresar el valor a convertir
 ```bash
 Ingresa la cantidad de ARS a convertir en USD: 600
 ```
@@ -189,7 +189,7 @@ Seleccione una tasa de cambio:
 ```bash
 3
 ```
-### Solicita ingresar el valor a convertir 
+### Solicita ingresar el valor a convertir
 ```bash
 Ingresa la cantidad de USD a convertir en BRL: 900
 ```
@@ -238,5 +238,3 @@ Saliendo...
 ## Contacto
 [LinkedIn](https://www.linkedin.com/in/jissbossg)
 [Links](https://linktr.ee/jissbossg)
-
-
