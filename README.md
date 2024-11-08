@@ -17,6 +17,7 @@
 - [Uso](#uso)
 - [Contacto](#contacto)
 
+# 
 
 ## Características
 
@@ -34,7 +35,7 @@
 - **Visualización del historial de conversiones realizadas:** Proporciona un deatalle de las conversciones ralizadas por en usuario.
 - **Almacena los datos en un archvio;** Consolida toda al actividad en el sistema en un archivo llamado ****history.json****.
 
-
+# 
 
 ## Requisitos
 
@@ -42,12 +43,16 @@
 - **Conexión a Internet**: Necesaria para acceder a la API de tasas de cambio.
 - **Maven**: Para gestionar las dependencias del proyecto.
 
+# 
+
 ## Instalación
 
 1. **Clona el repositorio**:
    ```bash
    git clone https://github.com/jissbossg/alura-challenge-conversor-moneda.git
    ```
+# 
+   
 ## Uso
 
 ### El sistema inicia con un saludo solicitando que se ingrese un nombre de usuario
@@ -222,11 +227,13 @@ Que desea hacer
 ```bash
 0
 ```
-### Con la seleccon de esta opcion el sistema se finaliza mostrando un mensaje de agradecimiento y se finaliza el sistema
+### Con la seleccion de esta opcion el sistema se finaliza mostrando un mensaje de agradecimiento y se finaliza el sistema
 ```bash
 Gracias por utilizar el conversor de moneda...
 Saliendo...
 ```
+
+# 
 
 ## Contacto
 [LinkedIn](https://www.linkedin.com/in/jissbossg)
